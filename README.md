@@ -14,37 +14,25 @@ If you want to get in touch, you can send me an email at: nicolasi.guilherme@gma
 <div align="center">
   <picture>
     <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=Guilherme-Nicolasi&theme=synthwave&mode=weekly"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=Guilherme-Nicolasi&theme=synthwave"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=Guilherme-Nicolasi&theme=default&mode=weekly"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=Guilherme-Nicolasi&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="176em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Guilherme-Nicolasi&mode=weekly" />
+    <img height="190em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Guilherme-Nicolasi&mode=weekly" />
   </picture>
-</div><br/>
-<div align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Guilherme-Nicolasi&count_private=true&show_icons=true&theme=synthwave"
+      srcset="https://github-readme-stats.vercel.app/api?username=Guilherme-Nicolasi&theme=synthwave"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Guilherme-Nicolasi&count_private=true&show_icons=true&theme=default"
+      srcset="https://github-readme-stats.vercel.app/api?username=Guilherme-Nicolasi&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Nicolasi&count_private=true&show_icons=true" />
-  </picture>
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Nicolasi&layout=compact&theme=synthwave"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Nicolasi&layout=compact&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
     <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Nicolasi&layout=compact" />
   </picture>
 </div>
