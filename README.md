@@ -1,16 +1,50 @@
-### Hi there 👋
+<!--**Guilherme-Nicolasi/Guilherme-Nicolasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<!--
-**Guilherme-Nicolasi/Guilherme-Nicolasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello, dear! Welcome to my GitHub profile 🖖</h1>
 
-Here are some ideas to get you started:
+I am not an Oracle of Delphi, but I hope to help you find the answer you're looking for or at least enjoy some of the content available in my repositories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Well, who am I? My name is Guilherme Nicolasi - but you can call me Nicolasi - I am a Computer Science student at the Federal University of São Paulo, where I also earned a Bachelor's degree in Science and Technology. Currently, I work with Traffic Management, Data Analysis, and Business Intelligence, although I also dedicate myself to private projects that cover other areas of knowledge.
+
+If you want to get in touch, you can send me an email at: nicolasi.guilherme@gmail.com that it will be a pleasure to talk about projects and technologies or read a good story.
+
+"We are a way for the cosmos to know itself." Sagan, Carl.<br/>
+
+<h3 align="center">My Stats</h3>
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=Guilherme-Nicolasi&theme=synthwave&mode=weekly"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=Guilherme-Nicolasi&theme=default&mode=weekly"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="176em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Guilherme-Nicolasi&mode=weekly" />
+  </picture>
+</div><br/>
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Guilherme-Nicolasi&count_private=true&show_icons=true&theme=synthwave"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Guilherme-Nicolasi&count_private=true&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Nicolasi&count_private=true&show_icons=true" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Nicolasi&layout=compact&theme=synthwave"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Nicolasi&layout=compact&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Nicolasi&layout=compact" />
+  </picture>
+</div>
