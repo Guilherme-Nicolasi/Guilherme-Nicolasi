@@ -2,11 +2,11 @@
 
 <h1 align="center">Hello, dear! Welcome to my GitHub profile 🖖</h1>
 
-I am not an Oracle of Delphi, but I hope to help you find the answer you're looking for or at least enjoy some of the content available in my repositories.
+I am not an Oracle of Delphi, but I hope to help you find the answer you're looking for or at least enjoy some of the content in my repositories.
 
-Well, who am I? My name is Guilherme Nicolasi - but you can call me Nicolasi - I am a Computer Science student at the Federal University of São Paulo, where I also earned a Bachelor's degree in Science and Technology. Currently, I work with Traffic Management, Data Analysis, and Business Intelligence, although I also dedicate myself to private projects that cover other areas of knowledge.
+Well, who am I? My name is Guilherme Nicolasi, but you can call me Nicolasi. I am a Computer Science student at the Federal University of São Paulo, where I also earned a Bachelor's degree in Science and Technology. I currently work with Traffic Management, Data Analysis, and Business Intelligence, although I also dedicate myself to private projects that cover other areas of knowledge.
 
-If you want to get in touch, you can send me an email at: nicolasi.guilherme@gmail.com that it will be a pleasure to talk about projects and technologies or read a good story.
+If you want to get in touch, you can email me at: nicolasi.guilherme@gmail.com. It will be a pleasure to talk about projects and technologies or read a good story.
 
 "We are a way for the cosmos to know itself." Sagan, Carl.<br/>
 
