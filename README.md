@@ -21,7 +21,7 @@ If you want to get in touch, you can email me at: nicolasi.guilherme@gmail.com. 
       srcset="https://github-readme-streak-stats.herokuapp.com?user=Guilherme-Nicolasi&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Guilherme-Nicolasi&mode=weekly" />
+    <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Guilherme-Nicolasi&mode=weekly" />
   </picture><br/>
 </div>
 <div align="center">
@@ -34,7 +34,7 @@ If you want to get in touch, you can email me at: nicolasi.guilherme@gmail.com. 
       srcset="https://github-readme-stats.vercel.app/api?username=Guilherme-Nicolasi&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Nicolasi&count_private=true&show_icons=true" />
+    <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Nicolasi&count_private=true&show_icons=true" />
   </picture>
   <picture>
     <source 
@@ -45,6 +45,6 @@ If you want to get in touch, you can email me at: nicolasi.guilherme@gmail.com. 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Nicolasi&layout=compact&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Nicolasi&layout=compact" />
+    <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Nicolasi&layout=compact" />
   </picture>
 </div>
