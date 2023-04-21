@@ -23,6 +23,8 @@ If you want to get in touch, you can email me at: nicolasi.guilherme@gmail.com. 
     />
     <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Guilherme-Nicolasi&mode=weekly" />
   </picture><br/>
+</div>
+<div align="center">
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=Guilherme-Nicolasi&theme=synthwave"
