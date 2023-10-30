@@ -4,7 +4,7 @@
 
 I'm not an Oracle of Delphi, but I hope to help you find the answer you seek or, if nothing else, enjoy some of the content in my repositories.
 
-So, who am I? My name is Guilherme Nicolasi, but you can call me Nicolasi. I am a Computer Science student at the Federal University of Sao Paulo, where I also earned a Bachelor's degree in Science and Technology. I currently work with Traffic Management and Business Intelligence, although I also dedicate myself to private projects which cover other areas of knowledge.
+So, who am I? My name is Guilherme Nicolasi, but you can call me Nicolasi. I am a Computer Science student at the Federal University of São Paulo, where I also earned a Bachelor's degree in Science and Technology. I currently work with Traffic Management and Business Intelligence, although I also dedicate myself to private projects which cover other areas of knowledge.
 
 If you are interested in contacting me, email me at: guilherme.nicolasi@unifesp.br. We can discuss projects and technologies or share a good story.
 
